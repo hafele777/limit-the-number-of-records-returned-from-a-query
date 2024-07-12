@@ -1,0 +1,5 @@
+(1, 'John', 'Highway 21')
+(2, 'Peter', 'Lowstreet 27')
+(3, 'Amy', 'Apple st 652')
+(4, 'Hannah', 'Mountain 21')
+(5, 'Michael', 'Valley 345')
